@@ -12,6 +12,7 @@ public class Problem_2 {
         int N = input.nextInt();
         int start = 1;
         printToN(N, start);
+        input.close();
     }
 
     private static void printToN(int N, int start) {
