@@ -1,7 +1,5 @@
 package Sorting;
 
-import java.io.File;
-import java.util.Scanner;
 
 public class Insertion_Sort {
     public static void main(String[] args) {
