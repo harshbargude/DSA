@@ -1,10 +1,9 @@
 package Sorting;
 
-
 public class Insertion_Sort {
     public static void main(String[] args) {
 
-        int[] arr = {1,2,3,4,5};
+        int[] arr = { 1, 2, 3, 4, 5 };
         for (int i = 0; i <= arr.length - 2; i++) {
             int j = i + 1;
             while (j > 0 && arr[j] < arr[j - 1]) {
@@ -13,7 +12,7 @@ public class Insertion_Sort {
                 arr[j - 1] = temp;
                 j--;
             }
-            
+
         }
 
         for (int ele : arr) {
