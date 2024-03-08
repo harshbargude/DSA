@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Problem_2 {
 
     public static void main(String[] args) {
-        // Q2. Print (1-N) Linearly
+        // Q2. Print (1-N) Linearly using Recursion
 
         Scanner input = new Scanner(System.in);
         System.out.print("Enter No: ");
