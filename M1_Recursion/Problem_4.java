@@ -14,7 +14,7 @@ public class Problem_4 {
 
         print1_to_N(N);
 
-
+        input.close();
 
     }
 
@@ -26,7 +26,7 @@ public class Problem_4 {
 
         print1_to_N(N-1);
         System.err.println(N);
-        
+
     }
     
 }
