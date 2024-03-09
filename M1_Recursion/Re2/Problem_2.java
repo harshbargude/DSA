@@ -1,4 +1,4 @@
-package M1_Recursion;
+package M1_Recursion.Re2;
 
 import java.util.Scanner;
 

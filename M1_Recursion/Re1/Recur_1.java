@@ -1,4 +1,4 @@
-package M1_Recursion;
+package M1_Recursion.Re1;
 
 public class Recur_1 {
 
