@@ -19,6 +19,7 @@ public class Palandrome_recur {
         }else if(str.charAt(l) != str.charAt(str.length()-l-1)){
             return false;
         }
+        
         return Paland(l+1);
     }
 }
