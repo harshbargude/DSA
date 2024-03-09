@@ -1,4 +1,4 @@
-package Sorting;
+package M2_Sorting;
 
 public class selection_sort {
     public static void main(String[] args) {

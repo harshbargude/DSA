@@ -1,4 +1,4 @@
-package Array;
+package M3_Array;
 
 import java.util.Arrays;
 
