@@ -1,4 +1,4 @@
-package M1_Recursion.Re4;
+package M1_RecursionHashing.Re4;
 
 public class ReverceAnArr {
     static int[] arr = {2,5,4};

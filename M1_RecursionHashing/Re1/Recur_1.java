@@ -1,5 +1,4 @@
-package M1_Recursion.Re1;
-
+package M1_RecursionHashing.Re1;
 public class Recur_1 {
 
     private static void print1to5(int a) {

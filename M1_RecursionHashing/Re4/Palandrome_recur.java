@@ -1,4 +1,4 @@
-package M1_Recursion.Re4;
+package M1_RecursionHashing.Re4;
 
 public class Palandrome_recur {
     static String str = "MADSM";

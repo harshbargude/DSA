@@ -1,4 +1,4 @@
-package M1_Recursion.Re5;
+package M1_RecursionHashing.Re5;
 
 public class RecousionCall_fibonacci {
     public static void main(String[] args) {

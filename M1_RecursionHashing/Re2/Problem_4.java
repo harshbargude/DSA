@@ -1,4 +1,4 @@
-package M1_Recursion.Re2;
+package M1_RecursionHashing.Re2;
 
 import java.util.Scanner;
 
