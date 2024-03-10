@@ -1,7 +1,7 @@
 package M1_Recursion.Re4;
 
 public class ReverceAnArr {
-    static int[] arr = {2,5,4,2,8,8,9,6,3,8};
+    static int[] arr = {2,5,4};
                      
     public static void main(String[] args) {
         int l = 0;
