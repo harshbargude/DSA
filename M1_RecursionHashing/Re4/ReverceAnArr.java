@@ -5,7 +5,7 @@ public class ReverceAnArr {
                      
     public static void main(String[] args) {
         int l = 0;
-        int r = arr.length-1;
+        // int r = arr.length-1;
         // reverce_arr(l,r);
         reverceM2_arr(l);
         for(int ele: arr){
