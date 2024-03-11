@@ -25,7 +25,7 @@ public class countCharInStr {
         } else {
             System.out.println("Character " + SC + " does not exist in the array.");
         }
-
+        
         System.out.println(hash);
 
         input.close();
