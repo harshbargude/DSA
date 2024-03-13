@@ -1,6 +1,5 @@
 package M3_Array;
 
-import java.util.Arrays;
 
 class ArraysDSA{
 
