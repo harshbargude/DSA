@@ -5,8 +5,7 @@ import java.util.ArrayList;
 public class MergSort1 {
     public static void main(String[] args) {
         // Divide and Merge
-        int[] arr = { 3, 2, 7, 4, 5, 8, 1 };
-        // int low = 0;
+        int[] arr = { 3, 2, 7, 4 };
         int high = arr.length - 1;
         solution.sort(arr, 0, high);
 
