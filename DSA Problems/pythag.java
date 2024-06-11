@@ -15,14 +15,14 @@ public class pythag {
             double squ = num * num;
             hypots.put(i,squ);
         }
-        System.err.println(hypots);
+        System.out.println(hypots);
         int p = 0;
         int q = p + 1;
         for (p = 2; p < limit; p++) {
             for (q = p + 1; q <= limit; q++){
                 double search = Math.sqrt((q*q)+(p*p));
                 if (hypots.containsValue(search)) {
-                    System.err.println(p + " " + q + " " + hypots.get(search));
+                    System.out.println(p + " " + q + " " + hypots.get(search));
                 }
             }
                 
