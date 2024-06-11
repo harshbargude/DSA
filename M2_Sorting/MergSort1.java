@@ -2,7 +2,7 @@ package M2_Sorting;
 
 import java.util.ArrayList;
 
-public class MergSort1 {
+public class MergeSort1 {
     public static void main(String[] args) {
         // Divide and Merge
         int[] arr = { 3, 2, 7, 4 };
